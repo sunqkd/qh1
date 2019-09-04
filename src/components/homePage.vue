@@ -34,7 +34,7 @@
 			</div>
 			<!-- 路演项目 -->
 			<div class="headlineright" style="width:73.6%;margin-top:10px;margin-bottom:19px">
-				· 巴葡科创企业介绍 ·
+				· 路演项目 ·
 			</div>
 			<!-- 路演项目列表 -->
 			<div class="projectItemList">
