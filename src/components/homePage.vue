@@ -21,9 +21,9 @@
 			<div class="activityBg" style="margin-bottom:50px;">
 				粤港澳大湾区建设是习近平总书记亲自谋划、亲自部署、亲自推动的国家战略，是新时代推动形成全面开放新格局的新尝试，是推动“一国两制”事业发展的新实践，也是前海新时期开发开放重大战略机遇。前海立足国家战略优势，汇聚全球创新能量，建设“一带一路”国际路演中心，为全球科技创新企业提供资本及产业资源支持，搭建路演展示舞台，推动粤港澳大湾区建设。
 			</div>
-			<div class="headlineright" style="width:89.3%;">· 巴葡科创企业交流会 ·</div>
+			<div class="headlineright" style="width:89.3%;">· 巴西-葡萄牙科创企业专场路演 ·</div>
 			<div class="activityBg" style="margin-bottom:50px;clear:both;margin-bottom:55px;">
-				澳门特区政府经济局产业发展厅厅长邱润华亲自带队16个涵盖人工智能、大数据、物联网、大健康、海洋经济、新能源等领域巴葡龙头科创团队来深，了解湾区经济发展、营商环境及创业发展空间以寻求更多的市场开拓、业务合作机会。
+				本次活动由“一带一路”前海国际路演中心携手澳门经济局产业发展厅，共同邀请巴西及葡萄牙孵化中心及在孵的科创企业来深，包括大数据、云计算、人工智能、物联网、海洋经济、大健康等领域16个深具发展潜力的创新科技项目进行路演，本次路演特邀产业专家、资深投资人组成的评委嘉宾团与路演企业深入沟通，以及众多粤港澳及海外投资机构与会深度点评互动。
 			</div>
 			<div class="headlineleft" style="width:73.6%;">
 				· 活动流程 ·
@@ -258,7 +258,7 @@ export default {
 			tableList:[], // 报名列表数据
 			domain:'https://app.dyly.com',
 			joinFlag:false, // 参会报名显示和隐藏
-			title:'【邀请函】“一带一路” 前海国际路演中心-巴葡科创企业交流会',
+			title:'【邀请函】“一带一路” 前海国际路演中心·巴西-葡萄牙科创企业专场路演',
 			decs:'路演时间：9月11日14:00 路演地点：前海深港青年梦工场 智汇全球·追梦前海>>',
 			imgUrl:'https://m.dyly.com/register/app_h5/img/qh.jpg',
 			sharehref:'https://m.dyly.com/register/app_h5/qh/index.html'
