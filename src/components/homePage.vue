@@ -85,7 +85,7 @@
 						拟定举办时间
 					</div>
 				</div>
-				<div class="tableBody" v-for="(item,index) in active" :key="index" :class="index == 0?'srecialColor':''">
+				<div class="tableBody" v-for="(item,index) in active" :key="index" :class="index == 0 || index == 1?'srecialColor':''">
 					<div>
 						{{index+1}}
 					</div>
